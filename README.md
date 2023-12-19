@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I hope to showcase what I've learned so far about html, and also improve upon this knowledge later down the line. I will be making a few html files connected to each other with links, showing text and headings, images, unorganized and organized lists. Hopefully this will be a small step into a world of coding I'm looking forward to enjoying!
